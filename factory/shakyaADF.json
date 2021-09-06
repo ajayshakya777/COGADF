@@ -1,0 +1,9 @@
+{
+	"name": "shakyaADF",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "235dbc94-5b65-41f0-96f9-06efc241b0d0",
+		"tenantId": "64abc092-c4c3-4b7c-9d59-35406454d295"
+	}
+}
